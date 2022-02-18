@@ -1,1 +1,3 @@
 # Wireless_Sensors_Network
+
+Full file structure coming soon...
